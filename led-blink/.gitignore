@@ -1,0 +1,11 @@
+# Build outputs
+*.elf
+*.hex
+*.o
+*.map
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
